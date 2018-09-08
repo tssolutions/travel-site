@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "gulp-rename": "^1.4.0",
+    "jquery-smooth-scroll": "^2.2.0",
     "normalize.css": "^8.0.0",
     "waypoints": "^4.0.1"
   },
